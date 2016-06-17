@@ -29,6 +29,10 @@
 
 1.MacTalk  http://macshuo.com/
 
+##设计
+
+1.生成shape  http://angrytools.com/android/button/
+
 ##程序员歌单
 
 1.musicforprogramming  http://musicforprogramming.net/
