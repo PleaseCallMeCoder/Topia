@@ -45,6 +45,8 @@
 
 6.设计灵感pinterest https://www.pinterest.com
 
+7.花瓣 http://huaban.com/
+
 ##应用分发
 
 1.pre  http://pre.im/
