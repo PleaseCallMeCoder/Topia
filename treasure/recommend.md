@@ -37,6 +37,8 @@
 
 2.阮一峰 http://www.ruanyifeng.com/home.html
 
+3.李笑来 https://www.gitbook.com/@xiaolai
+
 ##设计
 
 1.生成shape  http://angrytools.com/android/button/
