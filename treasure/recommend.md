@@ -25,6 +25,10 @@
 
 2.胡凯  http://hukai.me/
 
+3.罗升阳 http://blog.csdn.net/Luoshengyang?viewmode=list
+
+4.邓平凡 http://blog.csdn.net/innost?viewmode=list
+
 3.Hanks  http://hanks.xyz/
 
 ##非技术博客
