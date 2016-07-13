@@ -17,6 +17,8 @@
 
 9.OPEN开发经验库  http://www.open-open.com/lib/
 
+10.干货集中营 http://gank.io/
+
 ##技术博客
 
 1.Trinea  http://www.trinea.cn/
@@ -32,6 +34,22 @@
 ##设计
 
 1.生成shape  http://angrytools.com/android/button/
+
+2.生成logo https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+
+3.Material Design配色工具 http://www.materialpalette.com
+
+4.图标素材 https://www.iconfinder.com
+
+5.设计师作品交流平台dribbble https://dribbble.com
+
+6.设计灵感pinterest https://www.pinterest.com
+
+##应用分发
+
+1.pre  http://pre.im/
+
+2.fir  http://fir.im/
 
 ##程序员歌单
 
