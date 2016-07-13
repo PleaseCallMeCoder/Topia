@@ -35,6 +35,8 @@
 
 1.MacTalk  http://macshuo.com/
 
+2.阮一峰 http://www.ruanyifeng.com/home.html
+
 ##设计
 
 1.生成shape  http://angrytools.com/android/button/
