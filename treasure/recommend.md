@@ -57,6 +57,10 @@
 
 1.musicforprogramming  http://musicforprogramming.net/
 
+##程序员自己的导航
+
+1.极客导航 http://www.jikedaohang.com/
+
 
 
 
