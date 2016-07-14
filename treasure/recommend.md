@@ -55,6 +55,8 @@
 
 7.花瓣 http://huaban.com/
 
+8.最美应用 http://zuimeia.com/?platform=1
+
 ##应用分发
 
 1.pre  http://pre.im/
