@@ -1,4 +1,5 @@
 ##常逛的网站
+
 1.Android开发中文站    http://www.androidchina.net/
 
 2.codeKK http://p.codekk.com/
@@ -19,6 +20,8 @@
 
 10.干货集中营 http://gank.io/
 
+11.技术小黑屋 http://droidyue.com/
+
 ##技术博客
 
 1.Trinea  http://www.trinea.cn/
@@ -29,7 +32,25 @@
 
 4.邓平凡 http://blog.csdn.net/innost?viewmode=list
 
-3.Hanks  http://hanks.xyz/
+5.代码家 http://blog.daimajia.com/
+
+6.stormzhang http://stormzhang.com/
+
+7.郭林 http://blog.csdn.net/guolin_blog
+
+8.傲慢的上校 http://blog.csdn.net/lilu_leo
+
+9.谦虚的天下 http://www.cnblogs.com/qianxudetianxia
+
+10.ACE1985 http://blog.csdn.net/asce1885
+
+11.qinjuning http://blog.csdn.net/qinjuning
+
+12.任玉刚 http://blog.csdn.net/singwhatiwanna
+
+13.light sky http://www.lightskystreet.com/
+
+14.markzhai http://blog.zhaiyifan.cn/
 
 ##非技术博客
 
