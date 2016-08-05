@@ -54,6 +54,8 @@
 
 15.Android开发最佳实践 https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md
 
+16.自定义控件们 https://github.com/madongqiang2201/views
+
 ##非技术博客
 
 1.MacTalk  http://macshuo.com/
