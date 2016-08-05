@@ -52,6 +52,8 @@
 
 14.markzhai http://blog.zhaiyifan.cn/
 
+15.Android开发最佳实践 https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md
+
 ##非技术博客
 
 1.MacTalk  http://macshuo.com/
