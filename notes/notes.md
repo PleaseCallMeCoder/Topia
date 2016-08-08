@@ -2,6 +2,9 @@
 - [Android优秀开发资源](http://www.jianshu.com/p/ec3358875ee2)
 - [开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 
+#开源App源码
+-[开源App](https://www.coder4.com/archives/4340)
+
 #架构
 - [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
 - [Android开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
