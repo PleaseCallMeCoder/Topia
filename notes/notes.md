@@ -3,7 +3,7 @@
 - [开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 
 #开源App源码
--[开源App](https://www.coder4.com/archives/4340)
+- [开源App](https://www.coder4.com/archives/4340)
 
 #架构
 - [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
