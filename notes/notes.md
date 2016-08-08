@@ -1,5 +1,6 @@
 #开源资源
 - [Android优秀开发资源](http://www.jianshu.com/p/ec3358875ee2)
+- [开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 
 #架构
 - [Android应用开发架构概述](http://www.liuguangli.win/archives/299)
