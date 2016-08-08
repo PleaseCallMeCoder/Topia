@@ -82,6 +82,8 @@
 
 8.最美应用 http://zuimeia.com/?platform=1
 
+9.墨刀 https://modao.cc/
+
 ##应用分发
 
 1.pre  http://pre.im/
