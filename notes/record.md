@@ -1,6 +1,7 @@
 #开源资源
 - [Android优秀开发资源](http://www.jianshu.com/p/ec3358875ee2)
 - [开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
+- [开源App](http://www.jianshu.com/p/8180cc105f01)
 
 #开源App源码
 - [开源App](https://www.coder4.com/archives/4340)
