@@ -2,6 +2,7 @@
 - [Android优秀开发资源](http://www.jianshu.com/p/ec3358875ee2)
 - [开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 - [如何阅读开源项目源码](http://www.jianshu.com/p/be86e5678252)
+- [阅读源码套路](http://silencedut.com/2016/09/09/Android%E5%B8%B8%E7%94%A8%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6%E7%9A%84%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB%E5%A5%97%E8%B7%AF/)
 - [开源App](http://www.jianshu.com/p/8180cc105f01)
 
 #开源App源码
