@@ -9,7 +9,7 @@
   - [java数据结构和算法](https://github.com/PleaseCallMeCoder/Topia/blob/master/notes/data-structures)
   - [HeadFirst设计模式](https://github.com/PleaseCallMeCoder/Topia/tree/master/notes/head-first)
   - [Android开发艺术探索](https://github.com/PleaseCallMeCoder/Topia/blob/master/notes/development-of-art)
-- [架构相关戳这里](https://github.com/PleaseCallMeCoder/Topia/tree/master/architecture)
+- [架构相关戳这里](https://github.com/PleaseCallMeCoder/Topia/blob/master/architecture/%E6%9E%B6%E6%9E%84%E5%90%88%E9%9B%86.md)
 - 面试
   - [面试相关戳这里](https://github.com/PleaseCallMeCoder/Topia/tree/master/interview)
   - [开始面试系列](https://github.com/PleaseCallMeCoder/Topia/tree/master/startInterview)
