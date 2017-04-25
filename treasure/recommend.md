@@ -1,4 +1,4 @@
-##常逛的网站
+## 常逛的网站
 
 1.Android开发中文站    http://www.androidchina.net/
 
@@ -22,7 +22,7 @@
 
 11.技术小黑屋 http://droidyue.com/
 
-##技术博客
+## 技术博客
 
 1.Trinea  http://www.trinea.cn/
 
@@ -56,7 +56,7 @@
 
 16.自定义控件们 https://github.com/madongqiang2201/views
 
-##非技术博客
+## 非技术博客
 
 1.MacTalk  http://macshuo.com/
 
@@ -64,7 +64,7 @@
 
 3.李笑来 https://www.gitbook.com/@xiaolai
 
-##设计
+## 设计
 
 1.生成shape  http://angrytools.com/android/button/
 
@@ -84,17 +84,17 @@
 
 9.墨刀 https://modao.cc/
 
-##应用分发
+## 应用分发
 
 1.pre  http://pre.im/
 
 2.fir  http://fir.im/
 
-##程序员歌单
+## 程序员歌单
 
 1.musicforprogramming  http://musicforprogramming.net/
 
-##程序员自己的导航
+## 程序员自己的导航
 
 1.极客导航 http://www.jikedaohang.com/
 
